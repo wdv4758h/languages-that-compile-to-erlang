@@ -40,3 +40,16 @@ LFE - Lisp Flavoured Erlang
 :created: 2008
 :discuss: https://groups.google.com/forum/#!forum/lisp-flavoured-erlang
 :IRC: ``#erlang-lisp`` on freenode
+
+
+Efene - Alternative syntax for the Erlang Programming Language focusing on simplicity, ease of use and programmer UX
+====================================================================================================================
+
+:Efene:
+:site: http://efene.org/
+:source: https://github.com/efene/efene
+:doc: http://efene.org/
+:v1?: no
+:created: 2009
+:discuss: https://groups.google.com/d/forum/efene-programming-language
+:IRC: ``#efene`` on freenode
